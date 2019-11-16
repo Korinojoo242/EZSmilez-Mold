@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/DailyLife.unity
+- path: Assets/Scenes/Mixing Ingredients.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
