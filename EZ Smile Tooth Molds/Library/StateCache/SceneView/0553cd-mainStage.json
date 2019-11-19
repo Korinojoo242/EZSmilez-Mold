@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-2.6246747970581056,"y":4.720932960510254,"z":-4.321783065795898},"rotation":{"x":0.21371597051620484,"y":0.12532208859920503,"z":-0.02770228125154972,"w":0.9684621691703796},"size":6.955479621887207,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-4.6591796875,"y":4.130615234375,"z":0.830078125},"rotation":{"x":0.14066928625106812,"y":0.5308262705802918,"z":-0.08985389024019242,"w":0.8308982253074646},"size":3.6708695888519289,"orthographic":true}
+>>>>>>> Alvin's-branch

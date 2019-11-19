@@ -15,9 +15,9 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-    y: 43.2
-    width: 1536
-    height: 780.8
+    y: 43
+    width: 1920
+    height: 997
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 7}
@@ -38,10 +38,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 607
     y: 0
     width: 569
     height: 427
+=======
+    x: 808
+    y: 0
+    width: 560
+    height: 546
+>>>>>>> Alvin's-branch
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 18}
@@ -68,12 +75,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1536
     height: 731
   m_MinSize: {x: 887, y: 494}
   m_MaxSize: {x: 16012, y: 14044}
   vertical: 0
   controlID: 30
+=======
+    width: 1920
+    height: 947
+  m_MinSize: {x: 887, y: 494}
+  m_MaxSize: {x: 16012, y: 14044}
+  vertical: 0
+  controlID: 57
+>>>>>>> Alvin's-branch
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -89,10 +105,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1176
+    x: 1368
     y: 0
+<<<<<<< HEAD
     width: 360
     height: 731
+=======
+    width: 552
+    height: 947
+>>>>>>> Alvin's-branch
   m_MinSize: {x: 277, y: 72}
   m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 15}
@@ -117,8 +138,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 202
     height: 427
+=======
+    width: 402
+    height: 546
+>>>>>>> Alvin's-branch
   m_MinSize: {x: 202, y: 222}
   m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 16}
@@ -142,9 +168,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 427
     width: 1176
     height: 304
+=======
+    y: 546
+    width: 1368
+    height: 401
+>>>>>>> Alvin's-branch
   m_MinSize: {x: 232, y: 272}
   m_MaxSize: {x: 10002, y: 10022}
   m_ActualView: {fileID: 14}
@@ -173,8 +205,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1536
     height: 781
+=======
+    width: 1920
+    height: 997
+>>>>>>> Alvin's-branch
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &8
@@ -194,7 +231,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1536
+    width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -215,8 +252,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 761
-    width: 1536
+    y: 977
+    width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -239,12 +276,16 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1176
-    height: 731
+    width: 1368
+    height: 947
   m_MinSize: {x: 610, y: 494}
   m_MaxSize: {x: 12010, y: 14044}
   vertical: 1
+<<<<<<< HEAD
   controlID: 31
+=======
+  controlID: 58
+>>>>>>> Alvin's-branch
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -265,12 +306,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1176
     height: 427
   m_MinSize: {x: 610, y: 222}
   m_MaxSize: {x: 12010, y: 4022}
   vertical: 0
   controlID: 32
+=======
+    width: 1368
+    height: 546
+  m_MinSize: {x: 610, y: 222}
+  m_MaxSize: {x: 12010, y: 4022}
+  vertical: 0
+  controlID: 59
+>>>>>>> Alvin's-branch
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -286,10 +336,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 202
+    x: 402
     y: 0
+<<<<<<< HEAD
     width: 405
     height: 427
+=======
+    width: 406
+    height: 546
+>>>>>>> Alvin's-branch
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 17}
@@ -346,9 +401,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 500
     width: 1176
     height: 285
+=======
+    y: 619
+    width: 1368
+    height: 382
+>>>>>>> Alvin's-branch
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -363,21 +424,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Materials
+=======
+    - Assets/Models
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Models
+>>>>>>> Alvin's-branch
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\holla\Desktop\Repositories\EZSmilez Mold\EZ Smile Tooth
+  m_LastProjectPath: C:\Users\100603501\Desktop\projects\EZSmilez-Mold\EZ Smile Tooth
     Molds
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 08370000
     m_LastClickedID: 14088
     m_ExpandedIDs: 0000000012310000b83100000232000006320000903500007a370000403a0000a83c000000ca9a3b
+=======
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 82330000
+    m_LastClickedID: 13186
+    m_ExpandedIDs: 0000000018310000be310000083200000c3200009c34000096350000863700004e3a0000b63c000000ca9a3b
+>>>>>>> Alvin's-branch
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +481,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000012310000b83100000232000006320000903500007a370000403a0000a83c0000
+=======
+    m_ExpandedIDs: 0000000018310000be310000083200000c3200009c34000096350000863700004e3a0000b63c0000
+>>>>>>> Alvin's-branch
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -433,7 +513,11 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000000000005a390000
+=======
+    m_ExpandedInstanceIDs: c6230000
+>>>>>>> Alvin's-branch
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -482,10 +566,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1176
-    y: 73.6
-    width: 358
-    height: 712
+    x: 1368
+    y: 73
+    width: 550
+    height: 928
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -521,16 +605,26 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 73.6
     width: 202
     height: 408
+=======
+    y: 73
+    width: 402
+    height: 527
+>>>>>>> Alvin's-branch
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: da410000
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 6efbffff264000006c40000072400000
+=======
+      m_ExpandedIDs: 6afbffff
+>>>>>>> Alvin's-branch
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -575,10 +669,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 202.40001
     y: 73.6
     width: 403
     height: 408
+=======
+    x: 402
+    y: 73
+    width: 404
+    height: 527
+>>>>>>> Alvin's-branch
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 0553cdc288600c1469b1ec2fecb3abbb
@@ -590,9 +691,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -2.6246748, y: 4.720933, z: -4.321783}
     speed: 2
     m_Value: {x: -2.6246748, y: 4.720933, z: -4.321783}
+=======
+    m_Target: {x: -4.6591797, y: 4.130615, z: 0.8300781}
+    speed: 2
+    m_Value: {x: -4.6591797, y: 4.130615, z: 0.8300781}
+>>>>>>> Alvin's-branch
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -621,6 +728,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.21371597, y: 0.12532209, z: -0.027702281, w: 0.96846217}
     speed: 2
     m_Value: {x: 0.21080261, y: 0.12540047, z: -0.027325232, w: 0.9690667}
@@ -628,6 +736,15 @@ MonoBehaviour:
     m_Target: 6.9554796
     speed: 2
     m_Value: 6.6559615
+=======
+    m_Target: {x: 0.14066929, y: 0.5308263, z: -0.08985389, w: 0.8308982}
+    speed: 2
+    m_Value: {x: 0.14053223, y: 0.532064, z: -0.09006344, w: 0.8300886}
+  m_Size:
+    m_Target: 3.6708696
+    speed: 2
+    m_Value: 3.6598892
+>>>>>>> Alvin's-branch
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -646,8 +763,8 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.35002866, y: -0.32033262, z: 0.12878798, w: 0.87081534}
-  m_LastSceneViewOrtho: 1
+  m_LastSceneViewRotation: {x: 0.28941342, y: -0.5823383, z: 0.23306017, w: 0.72308457}
+  m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_SceneVisActive: 1
@@ -674,10 +791,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 607.2
     y: 73.6
     width: 567
     height: 408
+=======
+    x: 808
+    y: 73
+    width: 558
+    height: 527
+>>>>>>> Alvin's-branch
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
@@ -690,10 +814,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -768
-    m_HBaseRangeMax: 768
-    m_VBaseRangeMin: -432
-    m_VBaseRangeMax: 432
+    m_HBaseRangeMin: -960
+    m_HBaseRangeMax: 960
+    m_VBaseRangeMin: -540
+    m_VBaseRangeMax: 540
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -711,16 +835,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 567
       height: 391
     m_Scale: {x: 0.36914062, y: 0.36914062}
     m_Translation: {x: 283.5, y: 195.5}
+=======
+      width: 558
+      height: 510
+    m_Scale: {x: 0.290625, y: 0.290625}
+    m_Translation: {x: 279, y: 255}
+>>>>>>> Alvin's-branch
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -768
       y: -529.60846
       width: 1536
@@ -730,6 +862,17 @@ MonoBehaviour:
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 708.75, y: 510}
+=======
+      x: -960
+      y: -877.4193
+      width: 1920
+      height: 1754.8386
+    m_MinimalGUI: 1
+  m_defaultScale: 0.290625
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 558, y: 527}
+>>>>>>> Alvin's-branch
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -755,8 +898,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 149.6
-    y: 476
-    width: 913
-    height: 257
+    x: 0
+    y: 495.2
+    width: 1092
+    height: 290
   m_ViewDataDictionary: {fileID: 0}
