@@ -30,7 +30,6 @@ public class VRControl : MonoBehaviour
 
     void Start()
     {
-
     }
 
     // Update is called once per frame
@@ -112,6 +111,4 @@ public class VRControl : MonoBehaviour
             {
                 inputActive = false;
             }
-        
-   
 }
