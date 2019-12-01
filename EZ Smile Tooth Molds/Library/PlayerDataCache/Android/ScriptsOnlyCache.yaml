@@ -2,8 +2,10 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - BottleCollision
+    - BowlCollision
     - HandedInputSelector
     - LaserPointer
+    - MixtureCollision
     - OvrAvatarSettings
     - SpoonCollision
     - VRControl
@@ -81,21 +83,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10752}
     - Class: 114
-      Script: {instanceID: 11194}
+      Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11306}
+      Script: {instanceID: 11308}
     - Class: 114
-      Script: {instanceID: 11520}
+      Script: {instanceID: 11522}
     - Class: 114
-      Script: {instanceID: 11826}
+      Script: {instanceID: 11828}
     - Class: 114
-      Script: {instanceID: 11872}
+      Script: {instanceID: 11874}
     - Class: 114
-      Script: {instanceID: 11944}
+      Script: {instanceID: 11946}
     - Class: 114
-      Script: {instanceID: 12208}
+      Script: {instanceID: 12210}
     - Class: 114
-      Script: {instanceID: 25412}
+      Script: {instanceID: 17242}
+    - Class: 114
+      Script: {instanceID: 20158}
+    - Class: 114
+      Script: {instanceID: 30920}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -533,7 +539,7 @@ ScriptsOnlyBuild:
     className: OvrAvatarSettings
   - hash:
       serializedVersion: 2
-      Hash: 3bb7e76f0921516ece97fdfa1c10310b
+      Hash: f0f448a266843328a155dcb3dd25452a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: BottleCollision
@@ -1491,6 +1497,18 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: SpoonCollision
+  - hash:
+      serializedVersion: 2
+      Hash: e264926f14a40875dc0ce371e4871706
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BowlCollision
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MixtureCollision
   platform: 13
   scenePathNames:
   - Assets/Scenes/Mixing Ingredients.unity

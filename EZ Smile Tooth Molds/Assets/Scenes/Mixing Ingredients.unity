@@ -133,15 +133,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.03
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5
+      value: 5.17
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.43
+      value: -5.33
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_LocalRotation.x
@@ -355,15 +355,15 @@ RectTransform:
   m_GameObject: {fileID: 263719752}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.62476, y: 0.70641, z: 1}
   m_Children: []
   m_Father: {fileID: 2108377931}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 5.79, y: 0}
+  m_SizeDelta: {x: 50.84, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &263719754
 MonoBehaviour:
@@ -385,7 +385,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 13
+    m_FontSize: 19
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 9
@@ -396,7 +396,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Add 3 Scoops of Alginate
+  m_Text: Add Scoop of Alginate
 --- !u!222 &263719755
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -523,15 +523,15 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 467377104}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.00000062421}
+  m_LocalScale: {x: 0.80822796, y: 0.6568295, z: 1}
   m_Children: []
   m_Father: {fileID: 1327360125}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -0.00024961, y: 0.0000010228}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &467377106
@@ -554,7 +554,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 13
+    m_FontSize: 26
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 9
@@ -565,7 +565,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Add 3 Scoops of Water
+  m_Text: Add Water
 --- !u!222 &467377107
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -955,7 +955,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoop: {fileID: 860604655}
-  myPrefab: {fileID: 1447319010668821165, guid: cec01c98226ceae498b719e0c0318ac9,
+  myPrefab: {fileID: 1812093509386756949, guid: cec01c98226ceae498b719e0c0318ac9,
     type: 3}
 --- !u!54 &860604657
 Rigidbody:
@@ -971,7 +971,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 126
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!65 &860604658
 BoxCollider:
@@ -1321,6 +1321,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.021654643, y: 0.021654645, z: 0.012803993}
   m_Center: {x: -0.0000000023841857, y: -0.000000004768373, z: -0.0035158684}
+--- !u!114 &1035347320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035347318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04f4bcf7f7888b04ebce0629b4a0cffc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bowl: {fileID: 1035347318}
+  mixBowl: {fileID: 6306958411406808638, guid: 02665775ae66d554a92567ee11c4ec41, type: 3}
 --- !u!1001 &1152204771
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1420,7 +1434,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 24b349ecc78edea4abf93daeaf43d17d,
         type: 3}
       propertyPath: m_TagString
-      value: Untagged
+      value: Grabbable
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 24b349ecc78edea4abf93daeaf43d17d,
         type: 3}
@@ -1530,6 +1544,22 @@ CapsuleCollider:
   m_Height: 7.908198
   m_Direction: 1
   m_Center: {x: -0.17647178, y: 3.2298696, z: 0.0000009672922}
+--- !u!54 &1315796998
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1315796996}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
 --- !u!114 &1315797000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1542,7 +1572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1cfa1a48e5d667418a6249fe089960b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bottle: {fileID: 1315796996}
+  Bottle: {fileID: 1315796996}
 --- !u!1 &1327360124
 GameObject:
   m_ObjectHideFlags: 0
